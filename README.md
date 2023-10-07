@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=276BF7&width=435&lines=Hello+There!;Welcome+to+my+profile+%3A)](https://git.io/typing-svg)
+
 👋 Hi, I'm Mitchie (my nickname)
 
 📷 Photography Enthusiast | 📊 Programming Explorer | 🎨 Creative Designer

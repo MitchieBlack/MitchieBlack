@@ -8,10 +8,6 @@
 
 💡 Let's collaborate on open-source contributions, or just share a virtual coffee chat about our tech journeys :)
 
-📫 How to reach me:
-- 📧 Email: mitchie.black@outlook.com
-- 💼 LinkedIn: [The link!](https://www.linkedin.com/in/dimitrabarouta/)
-- 🌐 Portfolio: [The second link!](https://mitchieblack.com/)
 
 <!---
 MitchieBlack/MitchieBlack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -6,7 +6,6 @@
 
 🌱 I'm currently diving into the world of AI and expanding my web development skills. My quest is to gather programming skills and create meaningful projects.
 
-💡 Let's collaborate on open-source contributions, or just share a virtual coffee chat about our tech journeys :)
 
 
 <!---
